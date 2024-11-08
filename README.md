@@ -1,6 +1,6 @@
 # RomanNumbers
 
-**TODO: Add description**
+**Convert a roman number to an integer**
 
 ## Installation
 
@@ -18,4 +18,3 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at <https://hexdocs.pm/roman_numbers>.
-
